@@ -1,3 +1,7 @@
+# Run Locally
+Change the redirectUri constant in Spotify.js to 'http://localhost:3000'
+A Spotify account is necessary - It can probably be a free account
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
